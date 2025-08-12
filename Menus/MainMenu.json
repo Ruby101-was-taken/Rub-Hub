@@ -1,0 +1,22 @@
+{
+    "name": "untitled",
+    "options":[
+        {
+            "name": "test",
+            "action": [
+                {
+                "LoadMenu": "MainMenu.json"
+                },
+                {
+                "OpenFile": "C:/Users/ruby_/Desktop/python/ReallyFastRat/playerBigNew.png"
+                },
+                {
+                "OpenFolder": "C:/Users/ruby_/Desktop/python/ReallyFastRat"
+                },
+                {
+                "RunPython": "RubHub/Programs/test.py"
+                }
+            ]
+        }
+    ]
+}
